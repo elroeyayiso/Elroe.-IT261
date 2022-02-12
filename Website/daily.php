@@ -116,7 +116,7 @@ break;
             
             <li><a href= "index.php"> Home</a></li>
             <li><a href= "about.php"> About</a></li>
-            <li><a href= "Daily.php"> Daily</a></li>
+            <li><a href= "daily.php"> Daily</a></li>
             <li><a href= "project.php"> project</a></li>
             <li><a href= "Contact.php"> contact</a></li>
             <li><a href= "gallery.php"> Gallery</a></li>
