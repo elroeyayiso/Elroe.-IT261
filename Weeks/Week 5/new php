@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Currency converter form!</title>
+    <link href="css/style.css" type="text/css"
+    rel="stylesheet">
+</head>
+<body>
+    <h1> My Currency convert</h1>
+    <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>"
+    method="post">
+    
+    <label> Name </label>
+    <input type= "text" name= "name" value="<?php if(isset($_POST['name'])) echo
+    htmlspecialchars($_POST['name']);?>">
+
+
+<label> Total miles driving? </label>
+    <input type= "email" name= "email" value="<?php if(isset($_POST['email'])) echo
+    htmlspecialchars($_POST['Total miles driving']);?>">
+
+<label>How many hours per day do you plan on driving?</label>
+    <input type= "number" name= "amount" value="<?php if(isset($_POST['amount'])) 
+    echo htmlspecialchars($_POST['How many hours per day do you plan on driving']) ;?>">
