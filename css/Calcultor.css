@@ -8,6 +8,12 @@
     padding:20px 0;
 }
 
+
+#logo{
+    float:left;
+}
+
+
 nav ul {
     float:right;
 }
@@ -22,6 +28,7 @@ nav a {
     color: white;
 
 }
+
 
 
 
