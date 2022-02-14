@@ -22,23 +22,17 @@ nav li {
 nav a {
     text-decoration: none;
     color: white;
-
 }
 
+ #wrapper {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+ }
 
-
-
-
-*{
-padding:0;
-margin:0;
-box-sizing: border-box;
-
-}
 
 body{
-background:rgb(151, 184, 155);
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+background:white;
 font-size: 100%;
 }
 
