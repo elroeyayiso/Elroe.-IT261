@@ -6,13 +6,8 @@
     background: #0d4610b2;
     overflow:hidden;
     padding:20px 0;
+    logo float:left;
 }
-
-
-#logo{
-    float:right;
-}
-
 
 nav ul {
     float:right;
