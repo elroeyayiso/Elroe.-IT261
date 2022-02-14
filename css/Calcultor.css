@@ -23,11 +23,6 @@ nav a {
 
 }
 
-#logo {
-    float:left;
-}
-
-
 
 *{
 padding:0;
@@ -153,6 +148,4 @@ h1,h2{
 word-spacing: 5px;
 }
 
-h1 id{
-    float:left;
-{
+
