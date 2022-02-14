@@ -12,7 +12,6 @@
 <body>
 <header>
 <div id= "inner-header">
- <h1 id= "Portal"><a href= "index.php"> My Portal page</a></h1>
 </h1>
 
     <nav>
