@@ -73,6 +73,7 @@
 <p>Week 2:</p>
 <p>
     <a href="http://localhost:8888/IT261/Weeks/Week%202/var.php">Var.php</a>
+    <a href="https://github.com/elroeyayiso/Elroe.-IT261/blob/master/Weeks/Week%202/var.php">Var.php2</a>
 </p>
 
 <p>
