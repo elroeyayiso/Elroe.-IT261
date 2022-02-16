@@ -72,7 +72,7 @@
 
 <p>Week 2:</p>
 <p>
-    <a href="/IT261/Weeks/Week%202/var.php">Var.php</a>
+    <a href="/Weeks/Week%202/var.php">Var.php</a>
     
 </p>
 
@@ -81,9 +81,12 @@
 </p>
 
 <p>
-    <a href="/IT261/Weeks/Week%202/currency logic.php">Currency logic.php</a>
+    <a href="/../IT261/Weeks/Week%202/currency logic.php">Currency logic.php</a>
 </p>
 
+    <p>elroe</p>
+    
+    
 <p>
     <a href="/IT261/Weeks/Week%202/heredoc.php">Heredoc.php</a>
 </p>
