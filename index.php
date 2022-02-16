@@ -73,68 +73,68 @@
 <p>Week 2:</p>
 <p>
     <a href="/IT261/Weeks/Week%202/var.php">Var.php</a>
-    <a href="https://github.com/elroeyayiso/Elroe.-IT261/blob/master/Weeks/Week%202/var.php">Var.php2</a>
+    
 </p>
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%202/currency.php">Currency.php</a>
+    <a href="/IT261/Weeks/Week%202/currency.php">Currency.php</a>
 </p>
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%202/currency logic.php">Currency logic.php</a>
+    <a href="/IT261/Weeks/Week%202/currency logic.php">Currency logic.php</a>
 </p>
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%202/heredoc.php">Heredoc.php</a>
+    <a href="/IT261/Weeks/Week%202/heredoc.php">Heredoc.php</a>
 </p>
 
 <p>Week 3:</p>
 <p>
-<a href="http://localhost:8888/IT261/Weeks/Week%203/If-else.php">If-else.php</a>
+<a href="/IT261/Weeks/Week%203/If-else.php">If-else.php</a>
 </p>
 <p>
 
-    <a href="http://localhost:8888/IT261/Weeks/Week%203/arrays.php">Arrays.php</a>
+    <a href="/IT261/Weeks/Week%203/arrays.php">Arrays.php</a>
 </p>
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%203/date.php">Date.php</a>
+    <a href="/IT261/Weeks/Week%203/date.php">Date.php</a>
     <p>
-        <a href="http://localhost:8888/IT261/Weeks/Week%203/for-loop.php">For-loop.php</a>
+        <a href="/IT261/Weeks/Week%203/for-loop.php">For-loop.php</a>
     </p>
     <p>
-        <a href="http://localhost:8888/IT261/Weeks/Week%203/switch.php">Switch.php</a>
+        <a href="/IT261/Weeks/Week%203/switch.php">Switch.php</a>
     </p>
 
 <p>Week 4 </p>
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%204/form-get.php">Form-get.php</a>
+    <a href="/IT261/Weeks/Week%204/form-get.php">Form-get.php</a>
 </p>
 
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%204/form1.php"> Form1.php</a>
+    <a href="/IT261/Weeks/Week%204/form1.php"> Form1.php</a>
 </p>
 
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%204/form2.php">Form2.php</a>
+    <a href="/IT261/Weeks/Week%204/form2.php">Form2.php</a>
 </p>
 
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%204/form3.php">Form3.php</a>
+    <a href="/IT261/Weeks/Week%204/form3.php">Form3.php</a>
 </p>
 
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%204/celcius.php">Celcius.php</a>
+    <a href="/IT261/Weeks/Week%204/celcius.php">Celcius.php</a>
 </p>
 
 <p>Week 5 </p>
 
 <p>
-    <a href="http://localhost:8888/IT261/Weeks/Week%205/currency.php">Currency.php</a>
+    <a href="/IT261/Weeks/Week%205/currency.php">Currency.php</a>
 </p>
 
 
