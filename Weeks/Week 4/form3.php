@@ -8,8 +8,7 @@
 </head>
 <body>
     
-</body>
-</html>
+
 
 <form action="" method="post">
 <label>First Name</label>
@@ -53,3 +52,5 @@ echo '<p class="error">Please fill out the fields!</p>;
 
     }// isset
     
+</body>
+</html>
