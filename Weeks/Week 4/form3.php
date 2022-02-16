@@ -27,7 +27,7 @@
 </form>
 
 <p><a href="">Reset</a></p>
-';
+
 
 <?php
 // first_name,last_name,email,comments
@@ -49,8 +49,7 @@ echo '<p class="error">Please fill out the fields!</p>';
     echo '<br>';
     echo $comments;
 } // end else
-
     }// isset
-    
+?> 
 </body>
 </html>
