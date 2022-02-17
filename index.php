@@ -84,7 +84,7 @@
     <a href="/Weeks/Week%202/currency logic.php">Currency logic.php</a>
 </p>
 
-    <p>elroe</p>
+  
     
     
 <p>
@@ -144,7 +144,8 @@
 <p>Week 6 </p>
 
 <p>
-    <a href="/Weeks/Week%206/%20Our%20Emailable%20Form%201.php">Form</a>
+    <a href="/Weeks/Week%206/Form%201.php">Form</a>
+     <a href="/Weeks/Week%206/Form.php">Form</a>
 </p>
     
     
