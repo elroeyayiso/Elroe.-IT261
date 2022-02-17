@@ -83,7 +83,7 @@ if(empty($_POST['gender'])) {
                                 $_POST['comments'],
                                 $_POST['privacy'])){
                           
-                    $to= 'elroeyayiso123@gmail.com';
+                    $to= 'elroeyayiso@gmail.com';
                     $subject='Test email' .date('m/d/y, h i A') ;
                     $body='
                  First Name :'.$first_name.'  '.PHP_EOL.'
