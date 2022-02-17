@@ -146,11 +146,13 @@
 <p>
     <a href="/Weeks/Week%206/%20Our%20Emailable%20Form%201.php">Form</a>
 </p>
-
-    <p>Week 7</p>
-    <p>
-<a href= "/IT261/Weeks/Week%206/%20Our%20Emailable%20Form%201.php">Hello</a
+    
+    
 <p>
+    <a href="/Weeks/Week%206/functions.php">Functions.php</a>
+</p>
+
+    
 
 
 </p>
