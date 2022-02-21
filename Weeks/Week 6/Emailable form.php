@@ -92,7 +92,7 @@ if(empty($_POST['email'])) {
 
 $headers = array(
 'From '=> 'noreply@gmail.com',
-'Reply to:'=> ' '.$email.' '
+'Reply-to'=> ' '.$email.' '
 );
 
 
