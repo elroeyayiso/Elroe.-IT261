@@ -96,7 +96,7 @@ $headers = array(
 
 
      mail($to, $subject, $body,$headers);
-     header('Location:thx.php');
+     header('Location:Thankyou.php');
             
     } //close if not empty statment
 
