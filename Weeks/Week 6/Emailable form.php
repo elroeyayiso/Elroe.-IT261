@@ -88,7 +88,7 @@ if(empty($_POST['email'])) {
          $days &&
          $desserts &&
          $privacy )) {
-           
+    echo 'hello';       
 $headers = array(
 'From '=> 'noreply@gmail.com',
 'Reply to:'=> ' '.$email.' '
