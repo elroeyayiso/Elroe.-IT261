@@ -84,10 +84,10 @@ if(empty($_POST['email'])) {
      if(!empty($first_name &&
          $last_name &&
          $email &&
-        $phone &&
+         $phone &&
          $days &&
          $desserts &&
-        $privacy )) {
+         $privacy )) {
            
 $headers = array(
 'From '=> 'noreply@gmail.com',
