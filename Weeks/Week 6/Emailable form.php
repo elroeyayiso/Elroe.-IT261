@@ -80,16 +80,15 @@ if(empty($_POST['email'])) {
                  days :'.$days.'  '.PHP_EOL.'
                  desserts :'.$desserts.'  '.PHP_EOL.'          
      ';
-echo $first_name;
-     if(!empty($first_name)){
-         //$last_name &&
-         //$email &&
-        // $phone &&
-         //$days &&
-         //$desserts &&
-        // $privacy )) {
-            echo 'empty is working';
 
+     if(!empty($first_name &&
+         $last_name &&
+         $email &&
+        $phone &&
+         $days &&
+         $desserts &&
+        $privacy )) {
+           
 $headers = array(
 'From '=> 'noreply@gmail.com',
 'Reply to:'=> ' '.$email.' '
