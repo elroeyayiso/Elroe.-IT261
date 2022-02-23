@@ -153,9 +153,23 @@
     <a href="/Weeks/Week%206/functions.php">Functions.php</a>
 </p>
 
+    
+    
+    <p>Week 7 </p>
+    
+    
     <p>
-        <a href="/Weeks/Week%206/Emailable%20form.php">newform.php</a>
+        <a href="/Weeks/Week%207/pictures.php">Pictures.php</a>
     </p>
+    
+     <p>
+        <a href="/Weeks/Week%207/random.php">random.php</a>
+    </p>
+    
+    <p>
+        <a href="/Weeks/Week%207/strings.php"> strings.php</a>
+    </p>
+
 
 
 </p>
