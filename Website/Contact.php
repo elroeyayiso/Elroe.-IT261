@@ -127,7 +127,7 @@ $headers = array(
     <nav>
         <ul>
             
-            <li><a href= "index.php"> Home</a></li>
+            <li><a href= "index.html"> Home</a></li>
             <li><a href= "about.php"> About</a></li>
             <li><a href= "Daily.php"> Daily</a></li>
             <li><a href= "project.php"> project</a></li>
