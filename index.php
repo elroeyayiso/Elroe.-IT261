@@ -153,7 +153,9 @@
     <a href="/Weeks/Week%206/functions.php">Functions.php</a>
 </p>
 
-    
+     <p>week 8</p>
+  <a href="/Weeks/Week%208/people.php"> strings.php</a>
+
     
     <p>Week 7 </p>
     
@@ -170,8 +172,7 @@
         <a href="/Weeks/Week%207/strings.php"> strings.php</a>
     </p>
 
-
-
+   
 </p>
 </aside>
 
