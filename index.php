@@ -154,9 +154,9 @@
 </p>
 
      <p>week 8</p>
+    <p>
   <a href="/Weeks/Week%208/people.php"> strings.php</a>
-
-    
+    </p>
     <p>Week 7 </p>
     
     
