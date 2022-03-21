@@ -1,0 +1,59 @@
+/*styles for my form class exericse */
+
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+       background: blue;
+    
+    
+    }
+    
+    #wrapper {
+        max-width: 1200px;
+        /* you will still be using the values from a 940 px
+        grid please!!! */
+        margin:20px auto;
+        background: rgb(220, 220, 231);
+
+
+    }
+
+main{
+    float:left;
+    width:61.70%;
+    background:pink;
+}
+
+aside{
+float:right;
+width:36.17%;
+background:yellowgreen;
+
+
+}
+
+footer{
+
+    clear:both;
+    height:6px;
+    line-height:60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
