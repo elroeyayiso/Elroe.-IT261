@@ -41,9 +41,8 @@
 
 
 </header>
-<p style="text-align:center;"><img src="Imge/img1.jpg" alt="photo" width="550" height="450">
 
+<p style="text-align:center;"><img src="pics/img1.jpg" alt="photo" width="550" height="450">
 </p>
-<p style="text-align:center;"><img src="Imge/img.jpg" alt="photo" width="550" height="450">
-
+<p style="text-align:center;"><img src="pics/img.jpg" alt="photo" width="500" height="450">
 </p>
